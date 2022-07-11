@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"compute_instance","Source":"git::https://github.com/terraform-google-modules/docs-examples","Dir":".terraform/modules/compute_instance"},{"Key":"instance_template","Source":"git::https://github.com/terraform-google-modules/docs-examples","Dir":".terraform/modules/instance_template"},{"Key":"","Source":"","Dir":"."}]}
